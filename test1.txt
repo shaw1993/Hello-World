@@ -1,0 +1,2 @@
+Git is a version for everyone.
+Git is a version under GPL.
